@@ -4,7 +4,8 @@
 
 O projeto tem como objetivo colocar em prática o conhecimento adquirido sobre Assembly. No jogo em questão, foi usado o Assembly x86 como base.
 O jogo possibilita que dois jogadores joguem, na mesma máquina, o jogo Batalha Naval, posicionando e atirando em navios em conrdenadas representadas em uma matriz.
-De forma visual, é possivel jogar o jogo emulado em x86.
+De forma visual, é possivel jogar o jogo emulado em x86. 
+
 
 <img src="gameScreen.png" alt="Jogo em execução">
 
